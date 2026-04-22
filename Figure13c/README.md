@@ -1,4 +1,4 @@
-# Figure 13c: Temperature field Ra=10^
+# Figure 13c: Temperature field Ra=10^4
 
 
 
