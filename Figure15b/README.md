@@ -1,4 +1,4 @@
-# Figura 12a: Comparison between MISA and FVM Ra=10^4
+# Figure 15b: Comparison between MISA and FVM Ra=10^4
 
 
 
