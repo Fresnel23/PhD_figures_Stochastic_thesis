@@ -1,6 +1,5 @@
-# Comparative Analysis: Figure Suite
+# Figure 20: Mask independence analysis using the global L^2
 
-This directory contains a set of three key visualizations and their corresponding source files for the stochastic analysis chapter.
 
 ---
 
@@ -9,7 +8,7 @@ This directory contains a set of three key visualizations and their correspondin
 | Figure 01 | Figure 02 | Figure 03 |
 | :---: | :---: | :---: |
 | ![Figure](Figure.png) | ![L2(T)](L2(T).png) | ![Third Figure](L2(T).png) |
-| **General Overview** | **L2(T) Convergence** | **Error Distribution** |
+| **L^2 norm of velocity as a function of nuber of nodes** | **L^2 norm of the temperature T as a function of N** | **Relative error of L^2 on a logithmic scale velocity** |
 
 ---
 
