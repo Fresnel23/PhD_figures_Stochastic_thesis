@@ -1,4 +1,4 @@
-# Figure 13a: Horizontal velocity Ra=10^3
+# Figure 13a: Horizontal velocity Ra=10^4
 
 
 
