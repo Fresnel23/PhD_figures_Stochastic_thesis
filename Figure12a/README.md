@@ -1,6 +1,6 @@
-# Figura 12a: Análisis Estocástico de Datos
+# Figura 12a: Horizontal velocity Ra=10^3
 
-Este directorio contiene los resultados numéricos y visuales correspondientes a la Figura 12a de la tesis doctoral.
+
 
 ---
 
