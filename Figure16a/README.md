@@ -5,14 +5,14 @@
 ---
 
 ### 📊 Display
-![Imagen Vel_Error](Vel_Error.png)
+![Imagen Vel_Error](Vel_Error_2.png)
 
 ---
 
 ### 📂 Available files
 | File Name| Description| Format |
 | :--- | :--- | :--- |
-| `Vel_Error.png` | High-resolution image export. | PNG Image |
+| `Vel_Error_2.png` | High-resolution image export. | PNG Image |
 | `Vel_Error.fig` | Original source file (Editable in MATLAB). | MATLAB Figure |
 
 ### 🔬 Reproducibility Notes
