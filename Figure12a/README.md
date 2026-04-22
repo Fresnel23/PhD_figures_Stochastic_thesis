@@ -5,7 +5,7 @@ Este directorio contiene los resultados numéricos y visuales correspondientes a
 ---
 
 ### 📊 Visualización
-![Imagen Ra3_Vx](Ra3Vx.png)
+![Imagen VxRa3](VxRa3.png)
 
 ---
 
