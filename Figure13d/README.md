@@ -1,4 +1,4 @@
-# Figura 12a: Horizontal velocity Ra=10^3
+# Figure 13d: Stream functions Ra=10^3
 
 
 
