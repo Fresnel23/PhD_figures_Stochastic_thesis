@@ -1,4 +1,4 @@
-# Figura 12d: Stream functions compared both numerical schemes Ra=10^3
+# Figure 12d: Stream functions compared both numerical schemes Ra=10^3
 
 MISA results (blue solid lines), FVM results (red dotted lines)
 
