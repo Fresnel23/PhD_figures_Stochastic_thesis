@@ -6,10 +6,10 @@ This directory contains a set of three key visualizations and their correspondin
 
 ### 📊 Figure Gallery
 
-| Figure 01 | Figure 02 | Figure 03 |
+| d) | e)| f) |
 | :---: | :---: | :---: |
 | ![A2_E_0.5.png](./A2_E_0.5.png) | ![A2_Vel_0.5.png](./A2_Vel_0.5.png) | ![A2_Tem_0.5.png](./A2_Tem_0.5.png) |
-| **General Overview** | **L2(T) Convergence** | **Error Distribution** |
+| **Radiation absorption field** | **Velocity field** | **Temperature field** |
 
 ---
 
