@@ -16,7 +16,7 @@
 
 | Filename | Description | Format |
 | :--- | :--- | :--- |
-| `L2(u).png` / `.fig` | L^2 norm of velocity as a function of nuber of nodes. | Image / MATLAB |
+| [L2(u).png](L2(u).png) / [.fig](L2(u).fig) | L^2 norm of velocity as a function of nuber of nodes. | Image / MATLAB |
 | `L2(T).png` / `.fig` | L^2 norm of the temperature T as a function of N. | Image / MATLAB |
 | `Figure.png` / `.fig` | Relative error of L^2 on a logithmic scale velocity| Image / MATLAB |
 
