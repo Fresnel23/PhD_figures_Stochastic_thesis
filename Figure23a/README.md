@@ -9,7 +9,7 @@ This directory contains a set of three key visualizations and their correspondin
 | a) | b) | c) |
 | :---: | :---: | :---: |
 | ![A2_E_2](A2_E_2.png) | ![A2_Vel_2](A2_Vel_2.png) | ![A2_Tem_2](A2_Tem_2.png) |
-| **a)** | **b)** | **c)** |
+| **Radiation absorption field** | **Velocity field** | **Temperature field** |
 
 ---
 
