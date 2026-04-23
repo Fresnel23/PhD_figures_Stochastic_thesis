@@ -1,6 +1,4 @@
-# Comparative Analysis: Figure Suite
-
-This directory contains a set of three key visualizations and their corresponding source files for the stochastic analysis chapter.
+# Missara model solutions $\betta=2$
 
 ---
 
@@ -8,8 +6,8 @@ This directory contains a set of three key visualizations and their correspondin
 
 | Figure 01 | Figure 02 | Figure 03 |
 | :---: | :---: | :---: |
-| ![Figure](Figure.png) | ![L2(T)](L2(T).png) | ![Third Figure](L2(T).png) |
-| **General Overview** | **L2(T) Convergence** | **Error Distribution** |
+| ![A1_E_2](A1_E_2.png) | ![A1_Vel_2](A1_Vel_2.png) | ![A1_Tem_2](A1_Tem_2.png) |
+| **Radiation absorption field** | **Velocity field** | **Temperature field** |
 
 ---
 
@@ -17,9 +15,9 @@ This directory contains a set of three key visualizations and their correspondin
 
 | Filename | Description | Format |
 | :--- | :--- | :--- |
-| `Figure.png` / `.fig` | General stochastic process visualization. | Image / MATLAB |
-| `L2(T).png` / `.fig` | L2-norm convergence analysis over time $T$. | Image / MATLAB |
-| `L2(T).png` / `.fig` | [Update Description] | Image / MATLAB |
+| [A1_E_2.png](./A1_E_2.png) / [.fig](./A1_E_2.png) | Radiation absorption field. | Image / MATLAB |
+|[A1_Vel_2.png](./A1_Vel_2.png) / [.fig](./A1_Vel_2.png) | Velocity field. | Image / MATLAB |
+|[A1_Tem_2.png](./A1_Tem_2.png)/ [.fig](./A1_Tem_2.png) | Temperature field | Image / MATLAB |
 
 ### 🔬 Technical Details
 * **Source Files:** All `.fig` files are compatible with MATLAB R2020b and newer.
