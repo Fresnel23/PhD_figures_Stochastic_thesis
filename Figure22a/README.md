@@ -4,7 +4,6 @@
 
 ### 📊 Figure Gallery
 
-| Figure 01 | Figure 02 | Figure 03 |
 | :---: | :---: | :---: |
 | ![A1_E_2](A1__E_2.png) | ![A1_Vel_2](A1_Vel_2.png) | ![A1_Tem_2](A1_Tem_2.png) |
 | **Radiation absorption field** | **Velocity field** | **Temperature field** |
