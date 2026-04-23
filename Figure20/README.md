@@ -7,7 +7,7 @@
 
 | Figure 01 | Figure 02 | Figure 03 |
 | :---: | :---: | :---: |
-| ![Third Figure](L2(T).png)| ![L2(T)](L2(T).png) | ![Figure](Figure.png) |
+| ![Third Figure](L2(u).png)| ![L2(T)](L2(T).png) | ![Figure](Figure.png) |
 | **L^2 norm of velocity as a function of nuber of nodes** | **L^2 norm of the temperature T as a function of N** | **Relative error of L^2 on a logithmic scale velocity** |
 
 ---
@@ -16,9 +16,9 @@
 
 | Filename | Description | Format |
 | :--- | :--- | :--- |
-| `Figure.png` / `.fig` | General stochastic process visualization. | Image / MATLAB |
-| `L2(T).png` / `.fig` | L2-norm convergence analysis over time $T$. | Image / MATLAB |
-| `L2(T).png` / `.fig` | [Update Description] | Image / MATLAB |
+| `L2(u).png` / `.fig` | L^2 norm of velocity as a function of nuber of nodes. | Image / MATLAB |
+| `L2(T).png` / `.fig` | L^2 norm of the temperature T as a function of N. | Image / MATLAB |
+| `Figure.png` / `.fig` | Relative error of L^2 on a logithmic scale velocity| Image / MATLAB |
 
 ### 🔬 Technical Details
 * **Source Files:** All `.fig` files are compatible with MATLAB R2020b and newer.
