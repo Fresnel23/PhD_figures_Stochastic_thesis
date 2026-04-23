@@ -14,7 +14,7 @@ This directory contains the numerical results and visual representations for the
 | File Name | Description | Action |
 | :--- | :--- | :--- |
 | `Vel_Error_2.png` | High-resolution image export. | [🖼️ View Image](Vel_Error_2.png) |
-|[Vel_Error_2](Vel_Error_2.png)
+|[Vel_Error_2.fig](Vel_Error_2.fig)
 | Original source file (MATLAB). | [**📥 Download .fig**](Vel_Error.fig) |
 
 ### 🔬 Reproducibility Notes
