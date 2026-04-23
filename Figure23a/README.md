@@ -8,8 +8,8 @@ This directory contains a set of three key visualizations and their correspondin
 
 | Figure 01 | Figure 02 | Figure 03 |
 | :---: | :---: | :---: |
-| ![Figure](Figure.png) | ![L2(T)](L2(T).png) | ![Third Figure](L2(T).png) |
-| **General Overview** | **L2(T) Convergence** | **Error Distribution** |
+| ![A2_E_2](A2_E_2.png) | ![A2_Vel_2](A2_Vel_2.png) | ![A2_Tem_2](A2_Tem_2.png) |
+| **a)** | **b)** | **c)** |
 
 ---
 
