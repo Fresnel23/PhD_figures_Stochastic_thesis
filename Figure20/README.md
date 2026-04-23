@@ -7,7 +7,7 @@
 
 | Figure 01 | Figure 02 | Figure 03 |
 | :---: | :---: | :---: |
-| ![Figure](Figure.png) | ![L2(T)](L2(T).png) | ![Third Figure](L2(T).png) |
+| ![Third Figure](L2(T).png)| ![L2(T)](L2(T).png) | ![Figure](Figure.png) |
 | **L^2 norm of velocity as a function of nuber of nodes** | **L^2 norm of the temperature T as a function of N** | **Relative error of L^2 on a logithmic scale velocity** |
 
 ---
