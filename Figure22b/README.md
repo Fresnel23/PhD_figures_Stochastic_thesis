@@ -1,4 +1,4 @@
-# Missara model solutions $$\betta=2$$
+# Missara model solutions $$\betta=0.5$$
 
 ---
 
