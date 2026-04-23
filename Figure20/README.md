@@ -23,7 +23,7 @@
 ### 🔬 Technical Details
 * **Source Files:** All `.fig` files are compatible with MATLAB R2020b and newer.
 * **Resolution:** Images are exported at 300 DPI for high-quality publication standards.
-* **Data Context:** These figures represent the convergence of the L2-norm under stochastic perturbations.
+
 
 ---
 *PhD Figures Repository - Stochastic Thesis*
