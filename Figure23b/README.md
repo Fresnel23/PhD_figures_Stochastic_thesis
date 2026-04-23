@@ -8,7 +8,7 @@ This directory contains a set of three key visualizations and their correspondin
 
 | Figure 01 | Figure 02 | Figure 03 |
 | :---: | :---: | :---: |
-| ![Figure](Figure.png) | ![L2(T)](L2(T).png) | ![Third Figure](L2(T).png) |
+| ![A2_E_0.5.png](./A2_E_0.5.png) | ![A2_Vel_0.5.png](./A2_Vel_0.5.png) | ![A2_Tem_0.5.png](./A2_Tem_0.5.png) |
 | **General Overview** | **L2(T) Convergence** | **Error Distribution** |
 
 ---
@@ -17,9 +17,9 @@ This directory contains a set of three key visualizations and their correspondin
 
 | Filename | Description | Format |
 | :--- | :--- | :--- |
-| `Figure.png` / `.fig` | General stochastic process visualization. | Image / MATLAB |
-| `L2(T).png` / `.fig` | L2-norm convergence analysis over time $T$. | Image / MATLAB |
-| `L2(T).png` / `.fig` | [Update Description] | Image / MATLAB |
+|[A2_E_0.5.png](./A2_E_0.5.png) / [.fig](./A2_E_0.5.png) | Radiation absorption field. | Image / MATLAB |
+|[A2_Vel_0.5.png](./A2_Vel_0.5.png) / [.fig](./A2_Vel_0.5.png) | Velocity field. | Image / MATLAB |
+|[A2_Tem_0.5.png](./A2_Tem_0.5.png)/ [.fig](./A2_Tem_0.5.png) | Temperature field | Image / MATLAB |
 
 ### 🔬 Technical Details
 * **Source Files:** All `.fig` files are compatible with MATLAB R2020b and newer.
