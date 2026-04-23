@@ -6,10 +6,10 @@ This directory contains a set of three key visualizations and their correspondin
 
 ### 📊 Figure Gallery
 
-| Figure 01 | Figure 02 | Figure 03 |
+|a)| b) | c)|
 | :---: | :---: | :---: |
-| ![Figure](Figure.png) | ![L2(T)](L2(T).png) | ![Third Figure](L2(T).png) |
-| **General Overview** | **L2(T) Convergence** | **Error Distribution** |
+| ![A3_E_2.png](./A3_E_2.png) | ![A3_Vel_2.png](./A3_Vel_2.png) | ![A3_Tem_2.png](./A3_Tem_2.png) |
+| **Radiation absorption field** | **Velocity field** | **Temperature field** |
 
 ---
 
@@ -17,14 +17,13 @@ This directory contains a set of three key visualizations and their correspondin
 
 | Filename | Description | Format |
 | :--- | :--- | :--- |
-| `Figure.png` / `.fig` | General stochastic process visualization. | Image / MATLAB |
-| `L2(T).png` / `.fig` | L2-norm convergence analysis over time $T$. | Image / MATLAB |
-| `L2(T).png` / `.fig` | [Update Description] | Image / MATLAB |
+|[A3_E_2.png](./A3_E_2.png) / [.fig](./A3_E_2.png) | Radiation absorption field. | Image / MATLAB |
+|[A3_Vel_2.png](./A3_Vel_2.png) / [.fig](./A3_Vel_2.png) | Velocity field. | Image / MATLAB |
+|[A3_Tem_2.png](./A3_Tem_2.png)/ [.fig](./A3_Tem_2.png) | Temperature field | Image / MATLAB |
 
 ### 🔬 Technical Details
 * **Source Files:** All `.fig` files are compatible with MATLAB R2020b and newer.
 * **Resolution:** Images are exported at 300 DPI for high-quality publication standards.
-* **Data Context:** These figures represent the convergence of the L2-norm under stochastic perturbations.
 
 ---
 *PhD Figures Repository - Stochastic Thesis*
